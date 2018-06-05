@@ -9,5 +9,5 @@ just a sandbox for me
 
 ```diff
 - stuff
-+ more stuff
++ more stuff `stuff <http://www.lowell.edu>`_
 ```
