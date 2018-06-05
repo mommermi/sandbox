@@ -7,7 +7,7 @@ just a sandbox for me
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
 
-```diff
-- stuff
-+ more stuff `stuff <http://www.lowell.edu>`_
-```
+**Please note that CALLHORIZONS is not maintained anymore. Please use**
+`astroquery.jplhorizons <http://astroquery.readthedocs.io/en/latest/jplhorizons/jplhorizons.html>`_
+**instead, which will be maintained in the future and offers additional
+functionality. I apologize for any inconvenience.**
